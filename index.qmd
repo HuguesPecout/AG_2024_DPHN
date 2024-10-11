@@ -1,0 +1,45 @@
+---
+title: "Untitled"
+format: revealjs
+editor: visual
+---
+
+## Quarto
+
+Bilan depuis Rosckoff
+
+Mattia nous rejoins
+
+- Formation (Nouvelle offre : Calcul distribuée / paréllisation cluster, Notebook, Docker, Guix, API, LatEX) - evolution
+
+site web statique - 
+
+
+- ElementR - Rapel evolution
+
+- Données Ref stage - Ludovic
+
+
+Plutôt vers Zenodo
+
+
+
+
+- Re-structuration Forge logicielle + Associé à formation (Mattia et Ludovic)
+
+
+
+- Journée d'études : Notebook + Celle de Marion 
+
++ Données immobilières (Poisson de logement) - Appel 
+
+
+
+
+site web
+
+
+
+ElementR - Formation Transversalité - Pole Géomatique
+
++ refaire page site web
