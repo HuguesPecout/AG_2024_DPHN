@@ -1,38 +1,226 @@
 ---
-title: "Untitled"
-format: revealjs
+title: "Données et protocoles dans les humanités numériques"
+subtitle: "Transversalités inter-équipes"
+author: 
+- Mattia Bunel, Ludovic Chalonge, Marion Maisonobe, Hugues Pecout
+format: 
+  revealjs:
+   theme: simple
+   template-partials:
+      - title-slide.html
+   smaller: true
+date: 18 10 2024
+date-format: "D MMM YYYY"
+lang: fr
+footer: "AG 2024 - Transversalité '*Données et protocoles dans les humanités numériques*'"
+logo: "img/8504.png"
+csl: "universite-de-montreal-apa.csl"
+css: style.css
+img: img/8504.png
 editor: visual
 ---
 
-## Quarto
+## [Mission]{.tiitle}
 
-Bilan depuis Rosckoff
+\
 
-Mattia nous rejoins
+:::{.center}
 
-- Formation (Nouvelle offre : Calcul distribuée / paréllisation cluster, Notebook, Docker, Guix, API, LatEX) - evolution
+[La transversalité *Données et protocoles dans les humanités numériques* a pour mission d’**ouvrir aux possibilités offertes par les outils numériques**]{.bigone}
 
-site web statique - 
+:::
+
+\
+
+:::{.columns}
+
+:::{.column width="50%" .big2 .center .fragment }   
+Animée par :   
+
+- **Mattia Bunel** (IR EHESS)
+- Ludovic Chalonge
+- Marion Maisonobe
+- Hugues Pecout
+:::
 
 
-- ElementR - Rapel evolution
-
-- Données Ref stage - Ludovic
+:::{.column width="50%" .fragment .center style="font-size:90%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
 
 
-Plutôt vers Zenodo
+1. **Formation**
+2. **Journée d'études**
+3. **Accompagnement à la SO**
+:::
 
+:::
+
+## [1. Formation]{.tiitle}
+
+\
+
+:::{.center}
+
+Bilan : **l'offre de formation doit mieux s'adapter aux besoins courants**
+
+:::
+
+\
+
+:::{.txt2 .colour .center .fragment}
+
+A partir de cette année :
+
+:::
+
+\
+
+:::{.txt2 .fragment}
+
+- **Approche d'avantage** ***Bottom-up*** pour établir l'offre de formation    
+- Développement d'un **site web** qui liste et valorise l'ensemble des formations dispensées    
+- De **nouvelles compétences (M. Bunel) exploitables** :  Calcul distribuée, Docker, Guix, API...   
+
+
+
+:::
+
+
+## [1. Formation]{.tiitle}
+
+
+:::{.center .txt2}
+
+**Formations 2024/2025 :**
+
+:::
+
+:::{.soixantedix}
+
+- [**LaTeX**]{.colour} (initiation), par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre 
+- [**QGIS**]{.colour} : 
+    - [Ateliers SIG du Pôle Géomatique]{.colour} de l'EHESS (Co-anim M. Bunel) - 9 séances /an
+    - [Atelier géomatique du CESAH]{.colour} (Co-anim. L. Chalonge) - 8 séances / an 
+- [**R**]{.colour} : ElementR (programme en cours d'élaboration)
+
+:::
+
+\
+
+:::{.center .txt2 .fragment}
+
+**Envisagées :**
+
+:::
+
+:::{.soixantedix .fragment}
+
+-  [**Initiation(s) à R**]{.colour}
+-  [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
+-  [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données. )
+-  [**Méthode et analyse d'entretien**]{.colour} (Conception et outil d'analyse) 
+
+:::
+
+
+
+## [1.2 ElementR]{.tiitle}
+
+\
+
+:::{.center}
+
+[Groupe d’utilisateur·rice·s pour le traitement de l’information géographique avec R]{.bigone}
+
+:::
+
+\
+
+:::{.columns}
+
+:::{.column width="40%" .soixante .center .colour .fragment }   
+
+**Nouvelle équipe d'animation :**
+
+- Hugues Pecout (Géographie-cités)
+- Robin Cura (PRODIG)
+- Timothée Giraud (RIATE)
+- **Aurelie Douet** (CRH)
+- **Paul Gourdon** (LATTS)
+- **Léo Taillandier** (Géographie-cités)
+- **Louis Laurian** (RIATE)
+- **Elina Marveaux** (Géographie-cités)
+:::
+
+
+:::{.column width="60%" .fragment .center} 
+
+:::{.center style="font-size:80%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
+Réorientation des activités :     
+
+- **Groupe d'auto-formation** (et pas formation)    
+- **Ouverture** au delà des unités de tutelles 
+:::
+
+\
+
+:::{.big2 .colour}
+
+[https://elementr.netlify.app/](https://elementr.netlify.app/)
+
+:::
+
+:::
+
+
+:::
+
+
+## 2. Journées d'études 
+
+\
+
+:::{.txt2}
+
+-  12 & 13 nov. 2024 : Journées d'études *Notebook*     
+   -> organisé par le GT Notebook, co-financement CIST, IDEES et Géographie-cités
+
+- Fin janvier 2025 : *Analyser les documents de planification des territoires* 
+
+> Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine (Comparaison approche quali vs Quanti)
+
+Matin table ronde - après midi initiation outils :
+    - TXM - gratuit  (Analyse textuelle -textométrie)
+    - Yolo (analyse d'un corpus d'image - Détéction autromatisé de pattern)
+
+
+- Juin 2025 : Journée d'études sur les données immobolières () = Poisson + Appel à contribution
+
+:::
+
+## 3. Accompagnement à la Science Ouverte
+
+- Veille - Christine Kosmopoulos
+- Référencement de données produites  Ludo - Nakala
+- Passage sur Zenodo -> Données et code logiciel
+
+Plutôt vers Zenodo -> formation à Zenodo
+
+Zenodo est un répertoire de travaux de recherche, de logiciels et de données.
+
+lien avec les forge logicielle
+
+
+## 3. Accompagnement à la Science Ouverte
+
+
+Restructuration et organisation des GitHub et GitLab de l'UMR
+
++ formation aux forges logicielles
++ Formation Zenodo
 
 
 
 - Re-structuration Forge logicielle + Associé à formation (Mattia et Ludovic)
-
-
-
-- Journée d'études : Notebook + Celle de Marion 
-
-+ Données immobilières (Poisson de logement) - Appel 
-
 
 
 
