@@ -24,233 +24,168 @@ editor: visual
 
 \
 
-:::{.center}
-
+::: center
 [La transversalité *Données et protocoles dans les humanités numériques* a pour mission d’**ouvrir aux possibilités offertes par les outils numériques**]{.bigone}
-
 :::
 
 \
 
-:::{.columns}
+::::: columns
+::: {.column .big2 .center .fragment width="50%"}
+Animée par :
 
-:::{.column width="50%" .big2 .center .fragment }   
-Animée par :   
-
-- **Mattia Bunel** (IR EHESS)
-- Ludovic Chalonge
-- Marion Maisonobe
-- Hugues Pecout
+-   **Mattia Bunel** (IR EHESS)
+-   Ludovic Chalonge
+-   Marion Maisonobe
+-   Hugues Pecout
 :::
 
-
-:::{.column width="50%" .fragment .center style="font-size:90%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
-
-
-1. **Formation**
-2. **Journée d'études**
-3. **Accompagnement à la SO**
+::: {.column .fragment .center width="50%" style="font-size:90%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
+1.  **Formation**
+2.  **Journée d'études**
+3.  **Accompagnement à la SO**
 :::
-
-:::
+:::::
 
 ## [1. Formation]{.tiitle}
 
 \
 
-:::{.center}
-
-Bilan : **l'offre de formation doit mieux s'adapter aux besoins courants**
-
+::: center
+Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 :::
 
 \
 
-:::{.txt2 .colour .center .fragment}
-
-A partir de cette année :
-
+::: {.txt2 .colour .center .fragment}
+À partir de cette année :
 :::
 
 \
 
-:::{.txt2 .fragment}
-
-- **Approche d'avantage** ***Bottom-up*** pour établir l'offre de formation    
-- Développement d'un [**site web**]{.colour} qui liste et valorise l'ensemble des formations dispensées    
-- De **nouvelles compétences (M. Bunel) exploitables** :  Calcul distribuée, Docker, Guix, API...   
-
-
-
+::: {.txt2 .fragment}
+-   **Approche** ***Bottom-up***: n'hésitez pas à faire remonter des besoins de formation\
+-   Développement d'un [**site web**]{.colour} qui liste et valorise l'ensemble des formations dispensées\
+-   De **nouvelles compétences (M. Bunel) exploitables** : Calcul distribué, Docker, Guix, API...
 :::
-
 
 ## [1. Formation]{.tiitle}
 
-
-:::{.center .txt2}
-
+::: {.center .txt2}
 **Formations 2024/2025 :**
-
 :::
 
-:::{.soixantedix}
-
-- [**LaTeX**]{.colour} (initiation), par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre 
-- [**QGIS**]{.colour} : 
-    - [Ateliers SIG]{.colour}  du Pôle Géomatiquede l'EHESS (Co-anim M. Bunel, H. Pecout) - 9 séances /an
-    - [Atelier géomatique]{.colour} du CESAH (Co-anim. L. Chalonge) - 8 séances / an 
-- [**R**]{.colour} : ElementR (programme en cours d'élaboration)
-
+::: soixantedix
+-   [**LaTeX**]{.colour} (initiation) par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre
+-   [**QGIS**]{.colour} :
+    -   [Ateliers SIG]{.colour} du Pôle Géomatique de l'EHESS (Co-animation : M. Bunel, H. Pecout) - 9 séances/an
+    -   [Atelier géomatique]{.colour} du CESAH (Co-anim. L. Chalonge) - 8 séances/ an
+-   [**R**]{.colour} : ElementR (programme en cours d'élaboration)
 :::
 
-
-
-:::{.center .txt2 .fragment style="margin-top:20px;"}
-
+::: {.center .txt2 .fragment style="margin-top:20px;"}
 **Envisagées :**
-
 :::
 
-:::{.soixantedix .fragment}
-
--  [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos
--  [**Initiation(s) à R**]{.colour} (en fonction de la demande)
--  [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
--  [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données. )
--  [**Méthode et analyse d'entretien**]{.colour} (conception et outil d'analyse) 
--  [**Webscraping**]{.colour} (plus avancé, pas forcément avec R) 
-
+::: {.soixantedix .fragment}
+-   [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos
+-   [**Initiation(s) à R**]{.colour} (en fonction de la demande)
+-   [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
+-   [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données. )
+-   [**Méthode et analyse d'entretien**]{.colour} (conception et outil d'analyse)
+-   [**Webscraping**]{.colour} (plus avancé, pas forcément avec R)
 :::
-
-
 
 ## [ElementR]{.tiitle}
 
 \
 
-:::{.center }
-
+::: center
 [Groupe d’utilisateur·rice·s pour le traitement de l’information géographique avec R]{.bigone}
-
 :::
 
 \
 
-:::{.columns}
-
-:::{.column width="40%" .soixante .center .colour .fragment }   
-
+::::::: columns
+::: {.column .soixante .center .colour .fragment width="40%"}
 **Nouvelle équipe d'animation :**
 
-- Hugues Pecout (Géographie-cités)
-- Robin Cura (PRODIG)
-- Timothée Giraud (RIATE)
-- **Aurelie Douet** (CRH)
-- **Paul Gourdon** (LATTS)
-- **Léo Taillandier** (Géographie-cités)
-- **Louis Laurian** (RIATE)
-- **Elina Marveaux** (Géographie-cités)
+-   Hugues Pecout (Géographie-cités)
+-   Robin Cura (PRODIG)
+-   Timothée Giraud (RIATE)
+-   **Aurelie Douet** (CRH)
+-   **Paul Gourdon** (LATTS)
+-   **Léo Taillandier** (Géographie-cités)
+-   **Louis Laurian** (RIATE)
+-   **Elina Marveaux** (Géographie-cités)
 :::
 
+::::: {.column .fragment .center width="60%"}
+::: {.center style="font-size:80%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
+Réorientation des activités :
 
-:::{.column width="60%" .fragment .center} 
-
-:::{.center style="font-size:80%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
-Réorientation des activités :     
-
-- **Groupe d'auto-formation** (et pas formation)    
-- **Ouverture** au delà des unités de tutelles 
+-   **Groupe d'auto-formation** (et pas formation)\
+-   **Ouverture** au delà des unités de tutelles
 :::
 
 \
 
-:::{.colour .soixantedix}
-
-[https://elementr.netlify.app/](https://elementr.netlify.app/)
-
+::: {.colour .soixantedix}
+<https://elementr.netlify.app/>
 :::
+:::::
+:::::::
 
-:::
-
-
-:::
-
-
-## [2. Journées d'études]{.tiitle} 
+## [2. Journées d'études]{.tiitle}
 
 \
 
-:::{.txt2}
+:::::::: txt2
+-   12 & 13 nov. 2024 : [Journées d'études du GT *Notebook*]{.colour}\
+    [Co-financement : FR CIST, UMR IDEES et UMR Géographie-cités (via la transversalité)]{.grey .soixantedix}
 
--  12 & 13 nov. 2024 : [Journées d'études du GT *Notebook*]{.colour}      
-   [Co-financement : FR CIST, UMR IDEES et UMR Géographie-cités (via la transversalité)]{.grey .soixantedix}
-
-:::{.fragment style="margin-top:50px;"}
-
-- Fin janvier 2025 : [Analyser les documents de planification des territoires]{.colour} [(Org. Marion Albertelli)  ]{.soixantedix}    
-
+::: {.fragment style="margin-top:50px;"}
+-   Fin janvier 2025 : [Analyser les documents de planification des territoires]{.colour} [(Org. Marion Albertelli)]{.soixantedix}
 :::
 
-:::{.columns .fragment }
-
-:::{.column width="50%" .center}
-
-[Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine]{.grey .soixantequinze}    
-[**Comparaison approche qualitative vs quantitative**]{.grey .soixantedix}  
-
+::::: {.columns .fragment}
+::: {.column .center width="50%"}
+[Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine]{.grey .soixantequinze}\
+[**Comparaison approche qualitative vs quantitative**]{.grey .soixantedix}
 :::
 
-:::{.column width=50% .center  .fragment  style="font-size:60%;background-color:#20b9b1;margin-top:15px;"}
-
-1. **Table ronde**
-2. Formation outil
-    - **TXM** : Analyse textuelle, textométrie.
-    - **Yolo** : Analyse d'image, détection automatisé
-
+::: {.column .center .fragment width="50%" style="font-size:60%;background-color:#20b9b1;margin-top:15px;"}
+1.  **Table ronde**
+2.  Formation outil
+    -   **TXM** : Analyse textuelle, textométrie.
+    -   **Yolo** : Analyse d'image, détection automatisée
 :::
+:::::
 
-::: 
-
-   
-:::{.fragment style="margin-top:50px;"}
-
-- Envisagée en 2025 : [Journée d'études sur les données immobilières]{.colour}         
-   [Appel à contribution !]{.grey .soixantedix}
-
+::: {.fragment style="margin-top:50px;"}
+-   Envisagée en 2025 : [Journée d'études sur les données immobilières]{.colour}\
+    [Appel à contribution !]{.grey .soixantedix}
 :::
-
-:::
+::::::::
 
 ## [3. Science ouverte]{.tiitle}
 
-
-:::{.txt2}
-
-:::{.fragment style="margin-top:50px;"}
-
-- [Veille]{.colour} (C. Kosmopoulos)
-
+:::::: txt2
+::: {.fragment style="margin-top:50px;"}
+-   [Veille]{.colour} (C. Kosmopoulos)
 :::
 
-:::{.fragment style="margin-top:30px;"}
-
-- [Dépôt de données]{.colour} de l'UMR dans l'entrepôt [**Nakala**](https://nakala.fr/collection/10.34847/nkl.fbd0tz3c) (L. Chalonge)      
-    - [Très peu de dépôts réalisés...]{.grey .soixantequinze}   
-    - [Bascule sur [**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)]{.grey .soixantequinze}  
-    - [Formation à [**Zenodo**]{.colour} envisageable]{.grey .soixantequinze}  
-    
+::: {.fragment style="margin-top:30px;"}
+-   [Dépôt de données]{.colour} de l'UMR dans l'entrepôt [**Nakala**](https://nakala.fr/collection/10.34847/nkl.fbd0tz3c) (L. Chalonge)
+    -   [Très peu de dépôts réalisés...]{.grey .soixantequinze}\
+    -   [Bascule sur ]{.grey .soixantequinze}[**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)\
+    -   [Formation à ]{.grey .soixantequinze}[**Zenodo**]{.colour} envisageable
 :::
 
-:::{.fragment style="margin-top:30px;"}
-  
-- [Restructuration et organisation des **GitHub** et **GitLab** de l'UMR]{.colour} (H. Pecout/M. Bunel)
-    - [Permet le versionnage, l'archivage et le partage de code]{.grey .soixantequinze}          
-    - [Lien direct [**Zenodo**]{.colour} - [**GitHub**]{.colour} possible]{.grey .soixantequinze}    
-    - [Formation au forges logicielles envisageable]{.grey .soixantequinze}  
-
+::: {.fragment style="margin-top:30px;"}
+-   [Restructuration et organisation des **GitHub** et **GitLab** de l'UMR]{.colour} (H. Pecout/M. Bunel)
+    -   [Permet le versionnage, l'archivage et le partage de code]{.grey .soixantequinze}\
+    -   [Lien direct ]{.grey .soixantequinze}[**Zenodo**]{.colour} - [**GitHub**]{.colour} possible\
+    -   [Formation aux forges logicielles envisageables]{.grey .soixantequinze}
 :::
-
-:::
-
-
+::::::
