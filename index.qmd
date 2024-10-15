@@ -77,7 +77,7 @@ A partir de cette année :
 :::{.txt2 .fragment}
 
 - **Approche d'avantage** ***Bottom-up*** pour établir l'offre de formation    
-- Développement d'un **site web** qui liste et valorise l'ensemble des formations dispensées    
+- Développement d'un [**site web**]{.colour} qui liste et valorise l'ensemble des formations dispensées    
 - De **nouvelles compétences (M. Bunel) exploitables** :  Calcul distribuée, Docker, Guix, API...   
 
 
@@ -98,15 +98,15 @@ A partir de cette année :
 
 - [**LaTeX**]{.colour} (initiation), par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre 
 - [**QGIS**]{.colour} : 
-    - [Ateliers SIG du Pôle Géomatique]{.colour} de l'EHESS (Co-anim M. Bunel) - 9 séances /an
-    - [Atelier géomatique du CESAH]{.colour} (Co-anim. L. Chalonge) - 8 séances / an 
+    - [Ateliers SIG]{.colour}  du Pôle Géomatiquede l'EHESS (Co-anim M. Bunel, H. Pecout) - 9 séances /an
+    - [Atelier géomatique]{.colour} du CESAH (Co-anim. L. Chalonge) - 8 séances / an 
 - [**R**]{.colour} : ElementR (programme en cours d'élaboration)
 
 :::
 
-\
 
-:::{.center .txt2 .fragment}
+
+:::{.center .txt2 .fragment style="margin-top:20px;"}
 
 **Envisagées :**
 
@@ -114,20 +114,22 @@ A partir de cette année :
 
 :::{.soixantedix .fragment}
 
--  [**Initiation(s) à R**]{.colour}
+-  [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos
+-  [**Initiation(s) à R**]{.colour} (en fonction de la demande)
 -  [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
 -  [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données. )
--  [**Méthode et analyse d'entretien**]{.colour} (Conception et outil d'analyse) 
+-  [**Méthode et analyse d'entretien**]{.colour} (conception et outil d'analyse) 
+-  [**Webscraping**]{.colour} (plus avancé, pas forcément avec R) 
 
 :::
 
 
 
-## [1.2 ElementR]{.tiitle}
+## [ElementR]{.tiitle}
 
 \
 
-:::{.center}
+:::{.center }
 
 [Groupe d’utilisateur·rice·s pour le traitement de l’information géographique avec R]{.bigone}
 
@@ -163,7 +165,7 @@ Réorientation des activités :
 
 \
 
-:::{.big2 .colour}
+:::{.colour .soixantedix}
 
 [https://elementr.netlify.app/](https://elementr.netlify.app/)
 
@@ -175,59 +177,80 @@ Réorientation des activités :
 :::
 
 
-## 2. Journées d'études 
+## [2. Journées d'études]{.tiitle} 
 
 \
 
 :::{.txt2}
 
--  12 & 13 nov. 2024 : Journées d'études *Notebook*     
-   -> organisé par le GT Notebook, co-financement CIST, IDEES et Géographie-cités
+-  12 & 13 nov. 2024 : [Journées d'études du GT *Notebook*]{.colour}      
+   [Co-financement : FR CIST, UMR IDEES et UMR Géographie-cités (via la transversalité)]{.grey .soixantedix}
 
-- Fin janvier 2025 : *Analyser les documents de planification des territoires* 
+:::{.fragment style="margin-top:50px;"}
 
-> Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine (Comparaison approche quali vs Quanti)
-
-Matin table ronde - après midi initiation outils :
-    - TXM - gratuit  (Analyse textuelle -textométrie)
-    - Yolo (analyse d'un corpus d'image - Détéction autromatisé de pattern)
-
-
-- Juin 2025 : Journée d'études sur les données immobolières () = Poisson + Appel à contribution
+- Fin janvier 2025 : [Analyser les documents de planification des territoires]{.colour} [(Org. Marion Albertelli)  ]{.soixantedix}    
 
 :::
 
-## 3. Accompagnement à la Science Ouverte
+:::{.columns .fragment }
 
-- Veille - Christine Kosmopoulos
-- Référencement de données produites  Ludo - Nakala
-- Passage sur Zenodo -> Données et code logiciel
+:::{.column width="50%" .center}
 
-Plutôt vers Zenodo -> formation à Zenodo
+[Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine]{.grey .soixantequinze}    
+[**Comparaison approche qualitative vs quantitative**]{.grey .soixantedix}  
 
-Zenodo est un répertoire de travaux de recherche, de logiciels et de données.
+:::
 
-lien avec les forge logicielle
+:::{.column width=50% .center  .fragment  style="font-size:60%;background-color:#20b9b1;margin-top:15px;"}
+
+1. **Table ronde**
+2. Formation outil
+    - **TXM** : Analyse textuelle, textométrie.
+    - **Yolo** : Analyse d'image, détection automatisé
+
+:::
+
+::: 
+
+   
+:::{.fragment style="margin-top:50px;"}
+
+- Envisagée en 2025 : [Journée d'études sur les données immobilières]{.colour}         
+   [Appel à contribution !]{.grey .soixantedix}
+
+:::
+
+:::
+
+## [3. Science ouverte]{.tiitle}
 
 
-## 3. Accompagnement à la Science Ouverte
+:::{.txt2}
+
+:::{.fragment style="margin-top:50px;"}
+
+- [Veille]{.colour} (C. Kosmopoulos)
+
+:::
+
+:::{.fragment style="margin-top:30px;"}
+
+- [Dépôt de données]{.colour} de l'UMR dans l'entrepôt [**Nakala**](https://nakala.fr/collection/10.34847/nkl.fbd0tz3c) (L. Chalonge)      
+    - [Très peu de dépôts réalisés...]{.grey .soixantequinze}   
+    - [Bascule sur [**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)]{.grey .soixantequinze}  
+    - [Formation à [**Zenodo**]{.colour} envisageable]{.grey .soixantequinze}  
+    
+:::
+
+:::{.fragment style="margin-top:30px;"}
+  
+- [Restructuration et organisation des **GitHub** et **GitLab** de l'UMR]{.colour} (H. Pecout/M. Bunel)
+    - [Permet le versionnage, l'archivage et le partage de code]{.grey .soixantequinze}          
+    - [Lien direct [**Zenodo**]{.colour} - [**GitHub**]{.colour} possible]{.grey .soixantequinze}    
+    - [Formation au forges logicielles envisageable]{.grey .soixantequinze}  
+
+:::
+
+:::
 
 
-Restructuration et organisation des GitHub et GitLab de l'UMR
-
-+ formation aux forges logicielles
-+ Formation Zenodo
-
-
-
-- Re-structuration Forge logicielle + Associé à formation (Mattia et Ludovic)
-
-
-
-site web
-
-
-
-ElementR - Formation Transversalité - Pole Géomatique
-
-+ refaire page site web
