@@ -79,7 +79,7 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 -   [**LaTeX**]{.colour} (initiation) par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre
 -   [**QGIS**]{.colour} :
     -   [Ateliers SIG]{.colour} du Pôle Géomatique de l'EHESS (Co-animation : M. Bunel, H. Pecout) - 9 séances/an
-    -   [Atelier géomatique]{.colour} du CESAH (Co-anim. L. Chalonge) - 8 séances/ an
+    -   [Atelier géomatique]{.colour} du CESAH (Co-anim. L. Chalonge) - 8 séances/an
 -   [**R**]{.colour} : ElementR (programme en cours d'élaboration)
 :::
 
@@ -91,7 +91,7 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 -   [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos
 -   [**Initiation(s) à R**]{.colour} (en fonction de la demande)
 -   [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
--   [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données. )
+-   [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données)
 -   [**Méthode et analyse d'entretien**]{.colour} (conception et outil d'analyse)
 -   [**Webscraping**]{.colour} (plus avancé, pas forcément avec R)
 :::
