@@ -178,14 +178,14 @@ Réorientation des activités :
 ::: {.fragment style="margin-top:30px;"}
 -   [Dépôt de données]{.colour} de l'UMR dans l'entrepôt [**Nakala**](https://nakala.fr/collection/10.34847/nkl.fbd0tz3c) (L. Chalonge)
     -   [Très peu de dépôts réalisés...]{.grey .soixantequinze}\
-    -   [Bascule sur ]{.grey .soixantequinze}[**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)\
-    -   [Formation à ]{.grey .soixantequinze}[**Zenodo**]{.colour} envisageable
+    -   [Bascule sur [**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)]{.grey .soixantequinze}\
+    -   [Formation à [**Zenodo**]{.colour} envisageable]{.grey .soixantequinze}
 :::
 
 ::: {.fragment style="margin-top:30px;"}
 -   [Restructuration et organisation des **GitHub** et **GitLab** de l'UMR]{.colour} (H. Pecout/M. Bunel)
     -   [Permet le versionnage, l'archivage et le partage de code]{.grey .soixantequinze}\
-    -   [Lien direct ]{.grey .soixantequinze}[**Zenodo**]{.colour} - [**GitHub**]{.colour} possible\
+    -   [Lien direct [**Zenodo**]{.colour} - [**GitHub**]{.colour} possible]{.grey .soixantequinze}\
     -   [Formation aux forges logicielles envisageables]{.grey .soixantequinze}
 :::
 ::::::
