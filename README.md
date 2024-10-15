@@ -2,4 +2,4 @@
 
 ## Transverasilté *Données et protocoles dans les humanités numériques*
 
-[Diaporama]()
+[Diaporama](https://huguespecout.github.io/AG_2024_DPHN/)
