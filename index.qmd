@@ -71,11 +71,11 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 
 ## [1. Formation]{.tiitle}
 
-::: {.center .txt2}
+::: {.center .soixantedix}
 **Formations 2024/2025 :**
 :::
 
-::: soixantedix
+::: {.soixante}
 -   [**LaTeX**]{.colour} (initiation) par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre
 -   [**QGIS**]{.colour} :
     -   [Ateliers SIG]{.colour} du Pôle Géomatique de l'EHESS (Co-animation : M. Bunel, H. Pecout) - 9 séances/an
@@ -83,18 +83,23 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 -   [**R**]{.colour} : ElementR (programme en cours d'élaboration)
 :::
 
-::: {.center .txt2 .fragment style="margin-top:20px;"}
+::: {.center .soixantedix .fragment style="margin-top:20px;"}
 **Envisagées :**
 :::
 
-::: {.soixantedix .fragment}
--   [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos
--   [**Initiation(s) à R**]{.colour} (en fonction de la demande)
+::: {.soixante .fragment}
+-   [**Adobe Illustrator** & **Indesign**]{.colour} proposé par A. Ramos (forte demande mais problème de licence)
+-   [**Initiation(s) à R**]{.colour} + statistique univariée, bivariée et multivariée avec R
 -   [**Forge logicielle**]{.colour} (Git, versionnement code logiciel)
 -   [**Zenodo**]{.colour} (répertoire de travaux de recherche, de logiciels et de données)
 -   [**Méthode et analyse d'entretien**]{.colour} (conception et outil d'analyse)
--   [**Webscraping**]{.colour} (plus avancé, pas forcément avec R)
+-   [**Webscraping**]{.colour} (plus avancé, pas forcément avec R)\
 :::
+
+::: {.soixantedix .center .colour .fragment style="margin-top:30px;"}
+**Ateliers "méthodes et données"** ?
+:::
+
 
 ## [ElementR]{.tiitle}
 
@@ -126,9 +131,9 @@ Réorientation des activités :
 
 -   **Groupe d'auto-formation** (et pas formation)\
 -   **Ouverture** au delà des unités de tutelles
+-   **5 séances** envisagées pour cette année
 :::
 
-\
 
 ::: {.colour .soixantedix}
 <https://elementr.netlify.app/>
@@ -149,12 +154,12 @@ Réorientation des activités :
 :::
 
 ::::: {.columns .fragment}
-::: {.column .center width="50%"}
-[Questionner les grilles de lecture que l'on peut construire pour analyser les politiques de planification urbaine]{.grey .soixantequinze}\
+::: {.column .center width="50%" style="margin-top:10px;"}
+[Questionner les grilles d'analyse des politiques de planification]{.grey .soixantequinze}\
 [**Comparaison approche qualitative vs quantitative**]{.grey .soixantedix}
 :::
 
-::: {.column .center .fragment width="50%" style="font-size:60%;background-color:#20b9b1;margin-top:15px;"}
+::: {.column .center .fragment width="50%" style="font-size:60%;background-color:#20b9b1;"}
 1.  **Table ronde**
 2.  Formation outil
     -   **TXM** : Analyse textuelle, textométrie.
