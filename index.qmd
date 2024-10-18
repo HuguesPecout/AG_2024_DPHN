@@ -25,12 +25,12 @@ editor: visual
 \
 
 ::: center
-[La transversalité *Données et protocoles dans les humanités numériques* a pour mission d’**ouvrir aux possibilités offertes par les outils numériques**]{.bigone}
+[La transversalité *Données et protocoles dans les humanités numériques* a pour mission d'**ouvrir aux possibilités offertes par les outils numériques**]{.bigone}
 :::
 
 \
 
-::::: columns
+::: columns
 ::: {.column .big2 .center .fragment width="50%"}
 Animée par :
 
@@ -45,14 +45,14 @@ Animée par :
 2.  **Journée d'études**
 3.  **Accompagnement à la SO**
 :::
-:::::
+:::
 
 ## [1. Formation]{.tiitle}
 
 \
 
 ::: center
-Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
+**L'offre de formation vise à s'adapter aux besoins courants**
 :::
 
 \
@@ -75,7 +75,7 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 **Formations 2024/2025 :**
 :::
 
-::: {.soixante}
+::: soixante
 -   [**LaTeX**]{.colour} (initiation) par Fanny Cottet et Laurent Beauguitte 21 et 26 novembre
 -   [**QGIS**]{.colour} :
     -   [Ateliers SIG]{.colour} du Pôle Géomatique de l'EHESS (Co-animation : M. Bunel, H. Pecout) - 9 séances/an
@@ -100,18 +100,17 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 **Ateliers "méthodes et données"** ?
 :::
 
-
 ## [ElementR]{.tiitle}
 
 \
 
 ::: center
-[Groupe d’utilisateur·rice·s pour le traitement de l’information géographique avec R]{.bigone}
+[Groupe d'utilisateur·rice·s pour le traitement de l'information géographique avec R]{.bigone}
 :::
 
 \
 
-::::::: columns
+::: columns
 ::: {.column .soixante .center .colour .fragment width="40%"}
 **Nouvelle équipe d'animation :**
 
@@ -125,7 +124,7 @@ Bilan : **l'offre de formation vise à s'adapter aux besoins courants**
 -   **Elina Marveaux** (Géographie-cités)
 :::
 
-::::: {.column .fragment .center width="60%"}
+::: {.column .fragment .center width="60%"}
 ::: {.center style="font-size:80%;background-color:#20b9b1;padding-top:30px; padding-bottom:30px"}
 Réorientation des activités :
 
@@ -134,18 +133,17 @@ Réorientation des activités :
 -   **5 séances** envisagées pour cette année
 :::
 
-
 ::: {.colour .soixantedix}
 <https://elementr.netlify.app/>
 :::
-:::::
-:::::::
+:::
+:::
 
 ## [2. Journées d'études]{.tiitle}
 
 \
 
-:::::::: txt2
+::: txt2
 -   12 & 13 nov. 2024 : [Journées d'études du GT *Notebook*]{.colour}\
     [Co-financement : FR CIST, UMR IDEES et UMR Géographie-cités (via la transversalité)]{.grey .soixantedix}
 
@@ -153,7 +151,7 @@ Réorientation des activités :
 -   Fin janvier 2025 : [Analyser les documents de planification des territoires]{.colour} [(Org. Marion Albertelli)]{.soixantedix}
 :::
 
-::::: {.columns .fragment}
+::: {.columns .fragment}
 ::: {.column .center width="50%" style="margin-top:10px;"}
 [Questionner les grilles d'analyse des politiques de planification]{.grey .soixantequinze}\
 [**Comparaison approche qualitative vs quantitative**]{.grey .soixantedix}
@@ -165,17 +163,18 @@ Réorientation des activités :
     -   **TXM** : Analyse textuelle, textométrie.
     -   **Yolo** : Analyse d'image, détection automatisée
 :::
-:::::
+:::
 
 ::: {.fragment style="margin-top:50px;"}
 -   Envisagée en 2025 : [Journée d'études sur les données immobilières]{.colour}\
     [Appel à contribution !]{.grey .soixantedix}
 :::
-::::::::
+:::
 
 ## [3. Science ouverte]{.tiitle}
 
-:::::: txt2
+::: txt2
+
 ::: {.fragment style="margin-top:50px;"}
 -   [Veille]{.colour} (C. Kosmopoulos)
 :::
@@ -183,14 +182,15 @@ Réorientation des activités :
 ::: {.fragment style="margin-top:30px;"}
 -   [Dépôt de données]{.colour} de l'UMR dans l'entrepôt [**Nakala**](https://nakala.fr/collection/10.34847/nkl.fbd0tz3c) (L. Chalonge)
     -   [Très peu de dépôts réalisés...]{.grey .soixantequinze}\
-    -   [Bascule sur [**Zenodo**]{.colour} ? (Répertoire de travaux de recherche, de logiciels et de données)]{.grey .soixantequinze}\
-    -   [Formation à [**Zenodo**]{.colour} envisageable]{.grey .soixantequinze}
+    -   [Bascule sur]{.grey .soixantequinze} [**Zenodo**]{.colour .soixantequinze} [? (Répertoire de travaux de recherche, de logiciels et de données)]{.grey .soixantequinze}\
+    -   [Formation à]{.grey .soixantequinze} [**Zenodo**]{.colour .soixantequinze} [envisageable]{.grey .soixantequinze}
 :::
 
 ::: {.fragment style="margin-top:30px;"}
 -   [Restructuration et organisation des **GitHub** et **GitLab** de l'UMR]{.colour} (H. Pecout/M. Bunel)
     -   [Permet le versionnage, l'archivage et le partage de code]{.grey .soixantequinze}\
-    -   [Lien direct [**Zenodo**]{.colour} - [**GitHub**]{.colour} possible]{.grey .soixantequinze}\
+    -   [Lien direct]{.grey .soixantequinze} [**Zenodo**]{.colour .soixantequinze} - [**GitHub**]{.colour .soixantequinze} [possible]{.grey .soixantequinze}\
     -   [Formation aux forges logicielles envisageables]{.grey .soixantequinze}
 :::
-::::::
+
+:::
